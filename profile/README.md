@@ -2,13 +2,15 @@
 
 ![exlogo9](https://github.com/exzing/.github/assets/19970439/f0148882-911f-4d7c-9294-28384c78552b)
 
-Our flagship product, LUSHRIDE, is a car-hailing service that raises
-e-riders consciousness on their carbon footprint (COe) during
-driving sessions. We're currently leveraging the XRPL robust chain
-to create NFT tokens for users' carbon footprints, with the aim of
-giving them a choice of monetizing or analysing their data for
-global climate change mitigation.
+---
+## About
+Exzing Technology Ltd. is a company incorporated in Nigeria. Our specialty is Software-as-a-Service (SaaS) and we've already built an MVP of a ride-sharing application called LushRide, as a flagship product. Exzing is headquatered in Port Harcourt, a oil-rich city in Nigeria. 
 
+---
+## What Problem are we solving
+We are looking at using software to drive growth in every sector of human endeavours
+
+---
 <!--
 
 **Here are some ideas to get you started:**
