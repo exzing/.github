@@ -1,8 +1,6 @@
-## Hi there 👋
+## Welcome 👋
 
-<!--
-
-**Here are some ideas to get you started:**
+![exlogo9](https://github.com/exzing/.github/assets/19970439/f0148882-911f-4d7c-9294-28384c78552b)
 
 Our flagship product, LUSHRIDE, is a car-hailing service that raises
 e-riders consciousness on their carbon footprint (COe) during
@@ -10,6 +8,11 @@ driving sessions. We're currently leveraging the XRPL robust chain
 to create NFT tokens for users' carbon footprints, with the aim of
 giving them a choice of monetizing or analysing their data for
 global climate change mitigation.
+
+<!--
+
+**Here are some ideas to get you started:**
+
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
